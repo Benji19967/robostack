@@ -1,2 +1,22 @@
-# robostack
-a bundling of the Robot Operating System (ROS) by Open Robotics for Linux, Mac and Windows
+# RoboStack
+
+https://robostack.github.io/
+
+## Rviz
+
+```
+pixi run -e jazzy rviz2
+```
+
+## Gazebo
+
+term 1:
+```
+pixi run -e jazzy gz sim -s -v 4
+```
+
+term 2:
+```
+pixi run -e jazzy gz sim -g
+```
+
