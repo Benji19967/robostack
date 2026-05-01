@@ -66,6 +66,7 @@ channels = ["https://prefix.dev/robostack-jazzy"]
 [feature.jazzy.dependencies]
 ros-jazzy-desktop = "*"
 ros-jazzy-ros-gz = "*"
+ros-jazzy-rviz-imu-plugin = "*"
 
 ### ROS Kilted ####
 [feature.kilted]
